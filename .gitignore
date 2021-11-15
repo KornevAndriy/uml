@@ -1,0 +1,17 @@
+2.session
+128002.diagram
+cpp_includes
+generation_settings
+idl_settings
+idl_includes
+java_imports
+python_imports
+/src/test_data/BaseData.h.gch
+/src/test_data/DoubleData.h.gch
+/src/test_data/DynMas.h.gch
+/src/test_data/IntData.h.gch
+/src/test_data/test_data.depend
+/src/test_data/test_data.layout
+/src/test_data/bin/
+/src/test_data/obj/
+/src/test_data/.vs
